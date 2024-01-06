@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
